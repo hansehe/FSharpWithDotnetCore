@@ -1,5 +1,0 @@
-E:\github\FSNetCore\src\Library\bin\Debug\netstandard2.0\Library.deps.json
-E:\github\FSNetCore\src\Library\bin\Debug\netstandard2.0\Library.dll
-E:\github\FSNetCore\src\Library\bin\Debug\netstandard2.0\Library.pdb
-E:\github\FSNetCore\src\Library\obj\Debug\netstandard2.0\Library.dll
-E:\github\FSNetCore\src\Library\obj\Debug\netstandard2.0\Library.pdb
