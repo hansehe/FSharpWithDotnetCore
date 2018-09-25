@@ -1,0 +1,13 @@
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\CApp.deps.json
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\CApp.runtimeconfig.json
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\CApp.runtimeconfig.dev.json
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\CApp.dll
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\CApp.pdb
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\Library.dll
+E:\github\FSNetCore\src\CApp\bin\Debug\netcoreapp2.0\Library.pdb
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.csproj.CoreCompileInputs.cache
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.AssemblyInfoInputs.cache
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.AssemblyInfo.cs
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.csproj.CopyComplete
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.dll
+E:\github\FSNetCore\src\CApp\obj\Debug\netcoreapp2.0\CApp.pdb

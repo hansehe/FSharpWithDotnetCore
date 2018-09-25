@@ -1,0 +1,10 @@
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\FApp.deps.json
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\FApp.runtimeconfig.json
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\FApp.runtimeconfig.dev.json
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\FApp.dll
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\FApp.pdb
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\Library.dll
+E:\github\FSNetCore\src\FApp\bin\Debug\netcoreapp2.0\Library.pdb
+E:\github\FSNetCore\src\FApp\obj\Debug\netcoreapp2.0\FApp.fsproj.CopyComplete
+E:\github\FSNetCore\src\FApp\obj\Debug\netcoreapp2.0\FApp.dll
+E:\github\FSNetCore\src\FApp\obj\Debug\netcoreapp2.0\FApp.pdb
